@@ -144,7 +144,7 @@ html {
     position: relative;
     margin-top: 0px;
     padding-top: 50%;
-    background: url('/assets/img/slides/ny.jpg') top center /cover no-repeat;
+    background: url('../img/slides/ny.jpg') top center /cover no-repeat;
 }
 
 #slider .text-content {
@@ -219,7 +219,7 @@ html {
     
     margin: 15px 44px 0 44px;
     padding: 76px 76px;
-    background: url('/assets/img/team/bandmember.jpg') center /cover no-repeat;
+    background: url('../img/team/bandmember.jpg') center /cover no-repeat;
     border-radius: 5%;
 }
 
